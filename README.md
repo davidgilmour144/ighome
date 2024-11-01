@@ -1,6 +1,6 @@
 # Titulo: IG HOME
 
-# Descrição: Projeto de criação da página inicial login do INSTAGRAM
+## Descrição: Projeto de criação da página inicial login do INSTAGRAM
 
 # Tecnologias utilizadas:
 
@@ -9,4 +9,4 @@
 ## TAILWIND
 
 # Fonte icons
-## - Font Awesone: https://fontawesome.com/
+## Font Awesone: https://fontawesome.com/
